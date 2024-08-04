@@ -1,6 +1,6 @@
 Instructions:
 
-1.  Please the entire folder onto desktop
+1.  Place the entire folder onto desktop
 
 2.  Open LogParser.py file in Visual Studio Code or PyCharm editor
 
