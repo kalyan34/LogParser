@@ -1,0 +1,11 @@
+Hello from text
+error2
+error1 
+error1 message
+error1
+general error
+Some error
+warning
+info
+debug 
+error1
