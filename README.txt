@@ -4,5 +4,5 @@ Instructions:
 
 2.  Open LogParser.py file in Visual Studio Code or PyCharm editor
 
-3.  Run the program
+3.  Run the program as "python LogParser.py"
 
